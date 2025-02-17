@@ -13,6 +13,5 @@ _please inform the group if you cannot access the links or if there are errors i
 
 Link for the [project proposal](https://docs.google.com/document/d/1WqOtVccxf3dkU_deSGO4UNyvHvEzSxbmVmO5mMhxplc/edit?usp=sharing)
 
-This is the group's [Google Drive](https://drive.google.com/drive/folders/1J3i4REbPqJsXjb_gH7JRr3_ACjMIstkN?usp=sharing)
-This is the group's [Figma](https://www.figma.com/design/iWY1S5qYWKWpfETNmOnns9/AMIS-Student-Scheduling?node-id=0-1&t=sBQXZ3HpQ3bDvCeb-1) for the prototype and design.
+Group's [Google Drive](https://drive.google.com/drive/folders/1J3i4REbPqJsXjb_gH7JRr3_ACjMIstkN?usp=sharing) and [Figma](https://www.figma.com/design/iWY1S5qYWKWpfETNmOnns9/AMIS-Student-Scheduling?node-id=0-1&t=sBQXZ3HpQ3bDvCeb-1) for the prototype and design.
   
