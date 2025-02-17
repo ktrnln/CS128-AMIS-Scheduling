@@ -8,8 +8,8 @@ This is the repository was created for the purpose of monitoring code and projec
 
 
 ## Links 
-** Anyone with these links can access the folders and project files, please do not share the links with anyone outside the group and clients. **
-* please inform the group if you cannot access the links or if there are errors in the links below!! *
+**Anyone with these links can access the folders and project files, please do not share the links with anyone outside the group and clients.
+*please inform the group if you cannot access the links or if there are errors in the links below!!
 
 Link for the (project proposal)[https://docs.google.com/document/d/1WqOtVccxf3dkU_deSGO4UNyvHvEzSxbmVmO5mMhxplc/edit?usp=sharing]
 
