@@ -1,0 +1,81 @@
+AMIS VM (notes)
+
+- download virtual box and ubuntu
+- open vbox add the vm from the given file
+
+NOTE: kung anong gagamiting wifi sa setup, yun na yung wifi na gagamitin para gumana yung VM ; pwede namang ibang wifi pero you'll have to do the setup again
+
+Look for Wifi Info for Setup:
+ settings > network and internet > advanced network settings > click the wifi ur using > view additional properties
+    --- take note of description (this will be the name of the ethernet/wifi)
+    --- take note of the IPv4 default gateway (10.103.0.3)
+    --- we need to have an available IP address from the network (change the last digit of the gateway above - only 2-225)
+       -- check if that IP is being used: 
+	  1. open terminal as admin (right click windows > terminal (admin))
+	  2. ping IP you want to use (e.g.: ping 10.103.0.44) -- IP is available if the response is: destination host unreachable 
+	  3. look for 2 available IPs (take note of this)
+
+
+From the instructions: 
+1. Before opening the actual VM (setup the network)
+- attached to: Bridged Adapter
+- Name: name of ethernet/wifi 
+- Promiscuous Mode: Allow all
+- Cable connected: checked
+
+
+Inside the VM: Password -- rootadmin
+
+ 2. settings > wired > icon > IPv4
+   - IPv4 method: manual
+   - addresses (only change the first 2)
+	1st - change address (use the first IP kanina) , change gateway (the default gateway kanina rin) --- frontend IP
+	2nd - change address (use the 2nd IP)  --- backend IP
+
+ 3. files > amis > amis-fe > ctrl+h > .env (open) > save
+   - change the IP address to the back-end IP address (2nd IP) > save
+	--- may comment si sir look for it as guide
+
+ 4. files > amis > amis-be > ctrl+h > .env (open) > save
+   - Change the APP_URL IP address to the back-end IP address 
+   - Change the FRONT_URL IP address to the front-end IP address
+	--- may comment si sir look for it as guide
+
+** setup is successful if you can access internet after the changes in the network **
+
+
+
+
+ACCESSING THE AMIS WEBSITE IN VM
+
+inside amis-fe
+- if it exist: package.json > open
+- if it exist: dist folder (if there is: project is already built) > open > look for index.html 
+
+https://localhost  -- nginx web server (installed but needed further configuration)
+
+Find Nginx file directory: file manager > other locations > Computer > var > www > html
+
+Vue app/files are being used  -- need to copy vue files from amis-fe/dist/ to Nginx directory
+  - open new file manager window > amis > amis-fe > dist > copy all files inside (but not the dist folder) > paste in Nginx directory
+
+
+
+
+Vue app/files are being used  -- need to copy vue files from amis-fe/dist/ to new directory
+  - open new file manager window > amis > amis-fe > dist > copy all files inside (but not the dist folder) > paste in new directory (new folder in home)
+
+Change the default dir of Nginx to point at the new folder 
+  - file manager > other locations > Computer > etc > nginx > sites-available > default file (copy-paste somewhere first for back-up)
+	--- find: /var/www/html;   replace with: /home/amisadmin/folder;
+	--- find: index index.html index.htm index.nginx-debian.html;    replace with: index index.html index.htm;
+  - save > restart > open: https://localhost
+
+
+
+
+
+
+
+
+
