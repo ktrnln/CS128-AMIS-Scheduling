@@ -9,7 +9,7 @@ This is the repository was created for the purpose of monitoring code and projec
 
 
 ## AMIS VM
-Virtual Box is be used to code and implement dummy data. This [file](AMIS_config.text) has the configuration settings to follow in order to boot the VM starting from opening of the the file given to accessing the AMIS website inside the VM.
+Virtual Box is be used to code and implement dummy data. This [file](AMIS_config.txt) has the configuration settings to follow in order to boot the VM starting from opening of the the file given to accessing the AMIS website inside the VM.
 
 
 ## Links 
