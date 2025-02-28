@@ -1,12 +1,16 @@
 # Figma Updates
 
-### February 30, 2025 (Example 1)
+### February 27, 2024 
 
-**Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progress**: Created Figma File; Ensured file was editable across all members of the group.
+
+### February 28, 2024 
+
+**Progress**: Edited Figma File; Worked on AMIS site UI.
 
 
 # Other Updates
 
-### February 30, 2025 (Example 2)
+### February 28, 2024 
 
-**Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progress**: Finished sharing AMIS virtual machine across all group members; Made formal appointment with DIC team for VM troubleshooting.
