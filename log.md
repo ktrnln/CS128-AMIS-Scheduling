@@ -12,8 +12,12 @@
 
 ### March 3, 2025
 
-**Progress**: Edited Figma File ; added more frames and elements.
+**Progress**: Edited Figma File -- added more frames and elements.
 
+
+### March 6, 2025
+
+**Progress**: Edited Figma File -- integrated the chosen design into Figma (done)
 
 
 # Other Updates
