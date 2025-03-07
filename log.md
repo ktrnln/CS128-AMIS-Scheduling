@@ -20,6 +20,11 @@
 **Progress**: Edited Figma File -- integrated the chosen design into Figma (done)
 
 
+### March 7, 2025
+
+**Progress**: Edited Figma File -- Fixed Frame sizes for Prototyping 
+
+
 # Other Updates
 
 ### February 14, 2025
