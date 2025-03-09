@@ -24,6 +24,9 @@
 
 **Progress**: Edited Figma File -- Fixed Frame sizes for Prototyping 
 
+### March 9, 2025
+
+**Progress**: Edited Figma File -- Phone Layout for Prototyping
 
 # Other Updates
 
