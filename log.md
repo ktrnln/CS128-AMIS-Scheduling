@@ -33,6 +33,8 @@
 ### March 10, 2025
 
 **Progress**: Edited Figma File -- Fixed the frame sizing of active enlistment tab for phone/tablet prototype
+**Progress**: Edited Figma File -- Added design for user interface for tablet prototype
+**Progress**: Edited Figma File -- Edited proposal to change other paragraphs into bullet form
 
 # Other Updates
 
