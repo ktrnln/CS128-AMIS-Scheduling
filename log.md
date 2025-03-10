@@ -36,7 +36,7 @@
 
 **Progress**: Edited Figma File -- Added design for user interface for tablet prototype
 
-**Progress**: Edited Figma File -- Edited proposal to change other paragraphs into bullet form
+**Progress**: Edited Proposal -- Edited proposal to change other paragraphs into bullet form
 
 # Other Updates
 
