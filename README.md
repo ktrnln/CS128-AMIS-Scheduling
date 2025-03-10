@@ -24,6 +24,6 @@ Group's [Google Drive](https://drive.google.com/drive/folders/1J3i4REbPqJsXjb_gH
 ## Logs
 To keep track of contributions that are otherwise untrackable as well as serve as the hub of updates (e.g. Figma updates). To see the progress: [log](log.md)
 
-## USER STORIES
-To comment suggestions, point out error, and QA all parts of the projects such as code and figma prototype. Make sure you have sign up for a JIRA account. 
-See [Use Stories] (https://up-team-ld54b69v.atlassian.net/jira/software/projects/SCRUM/boards/1).
+## User Stories 
+See [User Stories](https://up-team-ld54b69v.atlassian.net/jira/software/projects/SCRUM/boards/1) for tracking and QA. Make sure you have sign up for a JIRA account. 
+
