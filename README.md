@@ -26,5 +26,4 @@ To keep track of contributions that are otherwise untrackable as well as serve a
 
 ## USER STORIES
 To comment suggestions, point out error, and QA all parts of the projects such as code and figma prototype. Make sure you have sign up for a JIRA account. 
-To See user stories: 
-(https://up-team-ld54b69v.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMDZiODg5ZjNlOTkyNGY1ZTlmYWQxN2VhZDY1MjBjYmQiLCJwIjoiaiJ9)
+To See user stories: (https://shorturl.at/f9DSt)
