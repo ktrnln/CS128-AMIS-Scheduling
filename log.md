@@ -28,8 +28,6 @@
 
 **Progress**: Edited Figma File -- Phone Layout for Prototyping
 
-### March 9, 2025
-
 **Progress**: Edited Figma File -- Added prototype functionality for dropdown menu and hover buttons for desktop prototype
 
 ### March 10, 2025
