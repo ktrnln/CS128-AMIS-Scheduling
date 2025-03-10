@@ -38,6 +38,8 @@
 
 **Progress**: Edited Proposal -- Edited proposal to change other paragraphs into bullet form
 
+**Progress**: Edited Figma File -- Added the dropdown menus (number of items and status) for phone prototype
+
 # Other Updates
 
 ### February 14, 2025
