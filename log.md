@@ -32,7 +32,7 @@
 
 ### March 10, 2025
 
-**Progress**: Edited Figma File -- Fixed the frame sizing of active enlistment tab for phone/tablet prototype
+**Progress**: Edited Figma File -- Fixed the frame sizing of active enlistment tab as well as its elements for phone/tablet prototype
 
 **Progress**: Edited Figma File -- Added design for user interface for tablet prototype
 
@@ -41,6 +41,8 @@
 **Progress**: Edited Figma File -- Added the dropdown menus (number of items and status) for phone prototype
 
 **Progress**: Edited Figma File -- Added class search tab and the function results for phone prototype
+
+**Progress**: Edited Figma File -- Added design for user interface for phone prototype
 
 # Other Updates
 
