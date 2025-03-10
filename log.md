@@ -32,6 +32,10 @@
 
 **Progress**: Edited Figma File -- Added prototype functionality for dropdown menu and hover buttons for desktop prototype
 
+### March 10, 2025
+
+**Progress**: Edited Figma File -- Fixed the frame sizing of active enlistment tab for phone/tablet prototype
+
 # Other Updates
 
 ### February 14, 2025
