@@ -26,4 +26,5 @@ To keep track of contributions that are otherwise untrackable as well as serve a
 
 ## User Stories 
 See [User Stories](https://up-team-ld54b69v.atlassian.net/jira/software/projects/SCRUM/boards/1) for tracking and QA. Make sure you have sign up for a JIRA account. 
+Here's also an [excel version] (https://docs.google.com/spreadsheets/d/1o0U5w3lObuREssVD49A-PcIIxARLDifPOKEjhZj-otE/edit?usp=sharing)
 
